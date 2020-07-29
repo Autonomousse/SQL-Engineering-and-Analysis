@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Postgres keys
+db_key.py
+db_key.cpython-36.pyc
