@@ -20,6 +20,8 @@ Note: You may hear the term "Data Modeling" in place of "Data Engineering," but 
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
+![ERD](/EmployeeSQL/ERD_Images/ERD_with_code.PNG)
+
 ### Data Engineering
 
 * Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
@@ -94,5 +96,3 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 * (Optional) Create a Jupyter Notebook of the bonus analysis.
 
-
-* Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
