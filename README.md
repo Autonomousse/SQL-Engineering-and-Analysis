@@ -1,4 +1,4 @@
-# SQL Challenge - Employee Database: A Mystery in Two Parts
+# SQL Engineering and Analysis - Employee Database: A Mystery in Two Parts
 
 ## Background
 
@@ -12,8 +12,6 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 2. Data Analysis
 
 
-Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
-
 ## Instructions
 
 ### Data Modeling
@@ -26,7 +24,7 @@ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool li
 
 * Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
-    * For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes to primary keys in order to uniquely identify a row.
+    * For the primary keys check to see if the column is unique, otherwise create a composite key. Which takes two primary keys in order to uniquely identify a row.
 
     * Be sure to create tables in the correct order to handle foreign keys.
 
@@ -82,17 +80,3 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 ## Epilogue
 
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
-
-## Submission
-
-* Create an image file of your ERD.
-
-
-* Create a .sql file of your table schemata.
-
-
-* Create a .sql file of your queries.
-
-
-* (Optional) Create a Jupyter Notebook of the bonus analysis.
-
